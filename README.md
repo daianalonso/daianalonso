@@ -2,9 +2,11 @@
  <img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
 </p>
 
-
 <p align="center">
- <h5 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=60/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h5>
+ <h5 align ='center'> Pixel art by <a href="https://www.instagram.com/minimossart/"> mini moss</a></h5>
+</p>
+
+<p align="center"> 
  <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso"/> 
  <img src="https://badges.pufler.dev/years/daianalonso"/>
  <img src="https://badges.pufler.dev/repos/daianalonso"/>
