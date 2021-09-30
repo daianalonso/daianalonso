@@ -1,11 +1,10 @@
 <p align="center">
- <img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
-<h6 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=50/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
+ 
 </p align="center">
-
+<img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
 
 <p align="center">
- 
+ <h6 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=50/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
  <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso"/> 
  <img src="https://badges.pufler.dev/years/daianalonso"/>
  <img src="https://badges.pufler.dev/repos/daianalonso"/>
@@ -21,7 +20,7 @@
 
 <p align="center">
 <img src ="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -35,7 +34,8 @@
   My Contribution Graph 
 </h2>
 <p align="center">
-  <img src="https://github.com/daianalonso/daianalonso/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/daianalonso/daianalonso/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  </center>
 </p>
 
 <h2 align="center">
