@@ -1,8 +1,9 @@
 <p align="center">
- 
+ <img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
+<h6 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=50/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
 </p align="center">
-<img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
-<h6 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
+
+
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso"/> 
@@ -38,7 +39,7 @@
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats
 </h2>
  
 <br>
