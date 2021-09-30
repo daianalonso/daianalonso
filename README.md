@@ -1,15 +1,14 @@
 <p align="center">
- 
-</p align="center">
-<img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
+ <img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.png" />
+</p>
+
 
 <p align="center">
- <h6 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=50/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
+ <h5 align ='center'> Pixel art by <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=60/> <a href="https://www.instagram.com/minimossart/"> mini moss</a></h5>
  <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso"/> 
  <img src="https://badges.pufler.dev/years/daianalonso"/>
  <img src="https://badges.pufler.dev/repos/daianalonso"/>
  <img src="https://badges.pufler.dev/commits/monthly/daianalonso" />
-
 </p>
 
 <p align="center">
@@ -30,13 +29,6 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">
-  My Contribution Graph 
-</h2>
-<p align="center">
-  <img src="https://github.com/daianalonso/daianalonso/raw/output/github-contribution-grid-snake.svg" alt="snake">
-  </center>
-</p>
 
 <h2 align="center">
   My Github Stats
