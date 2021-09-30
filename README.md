@@ -16,7 +16,7 @@
   I'm a computer science degree student 🎓 from University of Buenos Aires 🏛
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/daianalonso/daianalonso/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack </h2>
 
 <p align="center">
 <img src ="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -31,7 +31,7 @@
 </p>
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph 
 </h2>
 <p align="center">
   <img src="https://github.com/daianalonso/daianalonso/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
