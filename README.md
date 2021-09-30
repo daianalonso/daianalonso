@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/daianalonso/daianalonso/master/images/moonart-byminimoss.png"/>
+ <img src="https://raw.githubusercontent.com/daianalonso/daianalonso/master/images/moonart-byminimoss.png" alt="banner"/>
 </p>
 
 <p align="center">
