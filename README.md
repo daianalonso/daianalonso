@@ -1,5 +1,5 @@
 <p align="center">
- <img src="images/moonart-byminimoss"/>
+ <img src="https://raw.githubusercontent.com/daianalonso/daianalonso/master/images/moonart-byminimoss.png"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
  <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso"/> 
  <img src="https://badges.pufler.dev/years/daianalonso"/>
  <img src="https://badges.pufler.dev/repos/daianalonso"/>
- <!--><img src="https://badges.pufler.dev/commits/monthly/daianalonso" />-->
+ <!---<img src="https://badges.pufler.dev/commits/monthly/daianalonso" / --->
 </p>
 
 <p align="center">
