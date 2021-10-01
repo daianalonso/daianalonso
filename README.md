@@ -16,7 +16,7 @@
   I'm Daiana, currently pursuing my bachelor's degree majoring in computer science from <a href="https://www.dc.uba.ar/">University of Buenos Aires </a>🎓
 </p>  
 
-<h2 align="center" style="color: c792ea">Technology Stack </h2>
+<h2 align="center" style="color: c792ea">✨ Technology Stack ✨</h2>
 
 <table align="center">
     <tr>
@@ -76,7 +76,7 @@
 
 
 
-<h2 align="center" style="color: c792ea"> My Github Stats </h2>
+<h2 align="center" style="color: c792ea">✨ My Github Stats ✨</h2>
  
 <br>
 
@@ -97,7 +97,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=daianalonso&theme=material-palenight">
 </p> --->
 
-<h2 align="center" style="color: c792ea">Let's get in touch</h2>
+<h2 align="center" style="color: c792ea">✨ Let's get in touch ✨</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/daianalonso/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
