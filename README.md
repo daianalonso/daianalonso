@@ -61,13 +61,18 @@
 
 </table>
 
-
-<h4 align="center" style="color: a6accd">Machine learning & Data Science</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" >
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" >
-</p>
+<table align="center">
+  <tr>
+  <td>
+    <h4 align="center" style="color: a6accd">Machine learning & Data Science</h4>
+    <p align="center">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" >
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" >
+    </p>    
+  </td>
+</tr>
+</table>
 
 
 
