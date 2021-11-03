@@ -1,10 +1,3 @@
-<p align="center">
- <img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.gif" width="500" alt="banner"/>
-</p>
-<p align="center">
-    <h6 align ='center'> Pixel art by <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
-</p>
-
 <p align="center"> 
     <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso?color=89ddff"/> 
     <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
