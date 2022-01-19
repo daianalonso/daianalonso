@@ -1,7 +1,7 @@
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=daianalonso&color=89ddff"/>
-    <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
-    <img src="https://badges.pufler.dev/repos/daianalonso?color=89ddff"/>
+    <img src="https://komarev.com/ghpvc/?username=daianalonso&color=0077b5"/>
+    <img src="https://badges.pufler.dev/years/daianalonso?color=0077b5"/>
+    <img src="https://badges.pufler.dev/repos/daianalonso?color=0077b5"/>
 </p>
 
 <p align="center" style="color: a6accd">
