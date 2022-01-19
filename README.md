@@ -10,6 +10,9 @@
 </p>  
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <h2 align="center" style="color: c792ea">✨ Technology Stack ✨</h2>
