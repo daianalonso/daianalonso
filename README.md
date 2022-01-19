@@ -1,5 +1,5 @@
 <p align="center"> 
-    ![](https://komarev.com/ghpvc/?username=daianalonso&color=89ddff)
+    <img src="https://komarev.com/ghpvc/?username=daianalonso&color=89ddff"/>
     <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
     <img src="https://badges.pufler.dev/repos/daianalonso?color=89ddff"/>
 </p>
