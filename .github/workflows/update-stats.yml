@@ -18,3 +18,4 @@ jobs:
           SHOW_TITLE: true
           SHOW_TIME: false
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_SHORT_INFO: false
