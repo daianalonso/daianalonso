@@ -1,8 +1,7 @@
-![](https://komarev.com/ghpvc/?username=daianalonso&color=blue)
 <p align="center"> 
+    ![](https://komarev.com/ghpvc/?username=daianalonso&color=89ddff)
     <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
     <img src="https://badges.pufler.dev/repos/daianalonso?color=89ddff"/>
- <!---<img src="https://badges.pufler.dev/commits/monthly/daianalonso" / --->
 </p>
 
 <p align="center" style="color: a6accd">
