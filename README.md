@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="color: a6accd">
-  I'm Daiana, currently pursuing my bachelor's degree majoring in computer science from <a href="https://www.dc.uba.ar/">University of Buenos Aires </a>🎓
+  I'm Daiana, currently pursuing my bachelor's + master's degree majoring in computer science from <a href="https://www.dc.uba.ar/">University of Buenos Aires </a>🎓
 </p>  
 
 <!--START_SECTION:waka-->
