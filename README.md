@@ -96,8 +96,6 @@ No Activity tracked this Week
  <img src="https://activity-graph.herokuapp.com/graph?username=daianalonso&theme=material-palenight">
 </p> --->
 
-
-<h2 align="center" style="color: c792ea">✨ Let's get in touch ✨</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/daianalonso/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
