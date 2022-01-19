@@ -1,10 +1,3 @@
-<p align="center">
- <img src="https://github.com/daianalonso/daianalonso/blob/main/images/moonart-byminimoss.gif" width="500" alt="banner"/>
-</p>
-<p align="center">
-    <h6 align ='center'> Pixel art by <a href="https://www.instagram.com/minimossart/"> mini moss</a></h6>
-</p>
-
 <p align="center"> 
     <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso?color=89ddff"/> 
     <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
@@ -15,6 +8,9 @@
 <p align="center" style="color: a6accd">
   I'm Daiana, currently pursuing my bachelor's degree majoring in computer science from <a href="https://www.dc.uba.ar/">University of Buenos Aires </a>🎓
 </p>  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="center" style="color: c792ea">✨ Technology Stack ✨</h2>
 
