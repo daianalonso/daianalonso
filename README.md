@@ -1,5 +1,4 @@
 <p align="center"> 
-    <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso?color=89ddff"/> 
     <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
     <img src="https://badges.pufler.dev/repos/daianalonso?color=89ddff"/>
  <!---<img src="https://badges.pufler.dev/commits/monthly/daianalonso" / --->
@@ -12,6 +11,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--stack
 <h2 align="center" style="color: c792ea">✨ Technology Stack ✨</h2>
 
 <table align="center">
@@ -92,6 +92,7 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=daianalonso&theme=material-palenight">
 </p> --->
+
 
 <h2 align="center" style="color: c792ea">✨ Let's get in touch ✨</h2>
 <p align="center">
