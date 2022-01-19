@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=daianalonso&color=blue)
 <p align="center"> 
     <img src="https://badges.pufler.dev/years/daianalonso?color=89ddff"/>
     <img src="https://badges.pufler.dev/repos/daianalonso?color=89ddff"/>
