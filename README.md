@@ -18,7 +18,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Student:
 
     def __init__(self):
@@ -28,7 +27,6 @@ class Student:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
-
 
 me = Student()
 me.say_hi()
