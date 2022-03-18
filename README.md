@@ -11,7 +11,7 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
-## 🏋 About Me
+## About Me
 
 ```python
 #!/usr/bin/python
