@@ -4,9 +4,35 @@
     <img src="https://badges.pufler.dev/repos/daianalonso?color=0077b5"/>
 </p>
 
-<p align="center" style="color: a6accd">
-  I'm Daiana, currently pursuing my bachelor's degree majoring in computer science from <a href="https://www.dc.uba.ar/">University of Buenos Aires </a>🎓
-</p>  
+
+<p align="center">   
+  <a href="mailto:daalonso@dc.uba.ar" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
+  <a href="https://linkedin.com/in/daianalonso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+</p>
+
+## 🏋 About Me
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Student:
+
+    def __init__(self):
+        self.name = "Daiana Alejandra Alonso"
+        self.role = "BSc + MSc Student in Computer Science"
+        self.language_spoken = ["spanish", "english"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find interesting my profile :)")
+
+
+me = Student()
+me.say_hi()
+```
+
 
 <!--START_SECTION:waka-->
 ```text
