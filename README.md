@@ -25,7 +25,7 @@ class Student:
         self.language_spoken = ["spanish", "english"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find interesting my profile :)")
+        print("Thanks for dropping by!")
 
 me = Student()
 me.say_hi()
