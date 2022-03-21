@@ -30,3 +30,6 @@ class Student:
 me = Student()
 me.say_hi()
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
