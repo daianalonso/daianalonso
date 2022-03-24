@@ -1,7 +1,6 @@
 <p align="center"> 
     <img src="https://badges.pufler.dev/visits/daianalonso/daianalonso?color=0077b5"/>
     <img src="https://badges.pufler.dev/years/daianalonso?color=0077b5"/>
-    <img src="https://badges.pufler.dev/repos/daianalonso?color=0077b5"/>
     <img src="https://badges.pufler.dev/commits/monthly/daianalonso?color=0077b5"/>
 </p>
 
