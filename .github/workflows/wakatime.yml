@@ -22,3 +22,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: 2
           LOCALE: "en"
+          IGNORED_REPOS: "daianalonso"
