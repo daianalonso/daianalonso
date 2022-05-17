@@ -31,7 +31,7 @@ me.say_hi()
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2030%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,5 +77,5 @@ Windows                  5 hrs 34 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 16/05/2022 00:46:22 UTC
+ Last Updated on 17/05/2022 00:45:04 UTC
 <!--END_SECTION:waka-->
