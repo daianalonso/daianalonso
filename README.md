@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<p align="center">
+![](https://komarev.com/ghpvc/?username=daianalonso&color=blue)
+</p>
 
 <p align="center">   
   <a href="https://linkedin.com/in/daianalonso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
