@@ -55,18 +55,16 @@ Sunday       15 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-C++                      47 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   98.56% 
-C                        0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.44%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      47 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.92% 
-Windows                  1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.08%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/12/2022 00:41:26 UTC
+ Last Updated on 17/12/2022 00:39:08 UTC
 <!--END_SECTION:waka-->
