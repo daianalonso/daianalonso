@@ -22,5 +22,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: 2
+          TIME_RANGE: "last_7_days"
           LOCALE: "en"
           IGNORED_REPOS: "daianalonso"
