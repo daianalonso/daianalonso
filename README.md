@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=daianalonso&style=for-the-badge&color=blue)
-
 <p align="center">   
   <a href="https://linkedin.com/in/daianalonso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
